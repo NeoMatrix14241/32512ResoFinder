@@ -2,7 +2,7 @@
 title Ang ayaw ma ocr finder kasi malaki size
 setlocal
 
-echo Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): %DATE% %TIME%
+echo Current Date and Time: %DATE% %TIME%
 echo Current User's Login: %USERNAME%
 echo.
 
