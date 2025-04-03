@@ -25,8 +25,7 @@ git clone https://github.com/YourUsername/large-tiff-processor.git
 ```
 
 2. Ensure ImageMagick is installed:
-   - Download from [ImageMagick Official Website](https://imagemagick.org/script/download.php)
-   - Make sure it's added to your system's PATH
+   - Download [ImageMagick 7](https://imagemagick.org/script/download.php)
 
 ## Usage
 
